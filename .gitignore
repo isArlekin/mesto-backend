@@ -16,3 +16,10 @@ node_modules
 
 # Typescript build
 dist
+
+# Environment files
+.env
+.env.*
+
+# Files to simplify local development
+docker-compose.yml
